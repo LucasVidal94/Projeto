@@ -1,0 +1,17 @@
+.projects {
+
+    text-align: justify;
+}
+.projects h1 {
+
+    size: 45px;
+}
+
+.buttonb {
+    display: flex;
+    justify-content: center;
+    color:   rgba(116, 250, 192, 1);
+    
+    
+
+}
