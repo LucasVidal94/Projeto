@@ -23,20 +23,24 @@ font-size: 20px;
     transition-duration: 0.5s;
     transform: translateY(-7px);
     cursor: pointer;
+    height: 150px;
 }
 .ht:hover {
     transition-duration: 0.5s;
     transform: translateY(-7px);   
     cursor: pointer;
+    height: 150px;
 }
 .cs:hover {
     transition-duration: 0.5s;
     transform: translateY(-7px);   
     cursor: pointer;
+    height: 150px;
 }
 .rea:hover {
 
     transition-duration: 0.5s;
     transform: translateY(-7px);   
     cursor: pointer;
+    height: 150px;
 }
