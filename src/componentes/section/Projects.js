@@ -53,9 +53,9 @@ site='https://atividadednc.netlify.app/ '
  img={apicep}
  tittle='API de endereço'
  tech='HTML, CSS, JavaScript, Bootstrap'
- description='Busca de endereço utilizando API ViaCEP, na qual se coloca o CEP e ele te mostra os dados como rua, bairro, cidade, estado.'
- repo='https://github.com/LucasVidal94/api-dnc'
- site='https://api-dnc-iota.vercel.app/'
+ description='Projeto realizado, utilizando API de consumo VIACEP e OPEN-METEO, para saber o endereço atraves do CEP e utlizando a coordenada para a previsão exata do tempo no local.'
+ repo='https://github.com/LucasVidal94/dnc-weather'
+ site='https://dnc-weather-delta.vercel.app/'
  
 />       
 

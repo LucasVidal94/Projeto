@@ -10,7 +10,7 @@ function App() {
   return (
    <div className='App'>
     <Navbar/>
-    <Presentation/>
+    <Presentation/> 
     <Skills/>
     <Projects/>
     <Footer/>
